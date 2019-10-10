@@ -1,0 +1,25 @@
+a) Pseuodokode er en rask "sketch" av tanken bak et programmeringsprogram. Er som regel lett å forstå slik at det gir et overblikk for andre, og deg selv.
+
+pseudo av PositivtTall(N)
+
+en funksjon som heter positivtTall som tar et argument, args = int
+sjekke om argumentet er større enn null. (if funksjon)
+returner True hvis den er større enn null
+False ellers
+
+
+b) Flytdiagram / flowchart er en form for algortime. Du går gjennom en og en boble, og sjekker diverse betingelser på veien. 
+
+c) Debugging er å finne, og fikse eventuelle feil (bugs) i et program. På et systematisk vis.
+
+
+d) Høynivå programmering er mer effektivt en lavnivå. F.eks. minimum med koding til et stort og avangsert program. Effektivt programmering gjør at det også kompileres raskere. Høynivå kommenterer kodingen underveis slik at alle klarer å lese det. 
+
+e) 
+Instruction Fetch: Informasjon som skal bli behandlet blir flyttet fra minnet til kontrollenhet.
+Instruction Decode: Dele opp informasjonen, slik at hver "del" blir fraktet til riktig ALU.
+Data Fetch: Hente riktig "operatorer" i minnet til ALU.
+EXecute: Kalkulere resultatet i ALU
+Result Return: Returnere det nye informasjonen i ny plass i minnet.
+
+f) En prosessorregister som angir hvor langt en prossessor har utført sin oppgave(instruksjonssekvens). (peker på neste opp-)
